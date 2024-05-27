@@ -1,0 +1,9 @@
+[package]
+name = "todo-cli-app"
+version = "0.1.0"
+authors = ["Noormohammed Shikalgar <noor.shikalgar03@gmail.com>"]
+edition = "2021"
+license = "MIT"
+
+[dependencies]
+termion = "1.5.6"
